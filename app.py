@@ -11,7 +11,7 @@ so those modules can be imported directly by the main application later.
 
 Run:
     export OPENROUTER_API_KEY=sk-or-...
-    streamlit run app.py
+    uv run streamlit run app.py
 """
 
 from __future__ import annotations
